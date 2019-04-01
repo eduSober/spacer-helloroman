@@ -1,5 +1,7 @@
 # spacer-helloroman
 
+EDU PROCJKET SOBER 
+
 ## Project setup
 ```
 npm install
